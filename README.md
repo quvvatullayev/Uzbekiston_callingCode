@@ -1,3 +1,4 @@
 # Uzbekiston_callingCode
-available countries tel
+
+# Get bulk phone numbers for a country
 # New tel
